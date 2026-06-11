@@ -127,15 +127,15 @@ Variance = Revenue - Budget_Value
 
 ### Executive Dashboard
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](#)
 
 ### Revenue & Profit Analysis
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+![Revenue Analysis](#)
 
 ### Budget Variance Analysis
 
-![Variance Analysis](screenshots/variance-analysis.png)
+![Variance Analysis](#)
 
 ---
 
