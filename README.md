@@ -131,7 +131,7 @@ Variance = Revenue - Budget_Value
 
 ### Revenue & Profit Analysis
 
-![Revenue Analysis](sql/screenshots/10_Revenue_Analyse.png)
+![Revenue Analysis](sql/screenshots/Revenue Analyze.png)
 
 ### Budget Variance Analysis
 
