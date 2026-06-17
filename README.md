@@ -129,9 +129,6 @@ Variance = Revenue - Budget_Value
 
 ![Dashboard Overview](powerbi/Sales_Budget_Analytics_Dashboard.png)
 
-
----
-
 ## 📌 Key Business Metrics
 
 | Metric        | Description         |
