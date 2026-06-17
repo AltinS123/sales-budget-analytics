@@ -127,7 +127,7 @@ Variance = Revenue - Budget_Value
 
 ### Executive Dashboard
 
-![Dashboard Overview](https://github.com/AltinS123/sales-budget-analytics/blob/902058d902848bb49680b23e7233af6acf912ebc/powerbi/Sales_Budget_Analytics_Dashboard.png)
+![Dashboard Overview](powerbi/Sales_Budget_Analytics_Dashboard.png)
 
 ### Revenue & Profit Analysis
 
